@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/sukhbir-singh-96b878180/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sukhbir77" height="30" width="40" /></a>
-    <a href="https://leetcode.com/sukhbir77/" target="blank"><img align="center"
+    <a href="https://leetcode.com/sing9014/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="sing9014/" height="30" width="40" /></a>
 </p>
